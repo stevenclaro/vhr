@@ -27,3 +27,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 用户名及密码
 admin 123
 
+如果本机没有Node.js，到官方网站上去下载一个新的。
+https://nodejs.org/en/
+
+然后使用WebStorm运行vue项目
+https://blog.csdn.net/Dora_5537/article/details/87921443
+在运行的时候，碰到一个错误，以下地址解决
+https://www.jianshu.com/p/167200039902
